@@ -27,6 +27,6 @@ jobs:
       APP_SECRET: ${{ secrets.APP_SECRET }}
       TEMPLATE_ID: ${{ secrets.TEMPLATE_ID }}
       USER_ID: ${{ secrets.USER_ID }}
-      START_DATE: ${{ secrets.START_DATE }}
-      BIRTHDAY: ${{ secrets.BIRTHDAY }}
+      START_DATE: ${{ 2021-08-15.START_DATE }}
+      BIRTHDAY: ${{ 02-12 12-15.BIRTHDAY }}
       CITY: ${{重庆.CITY }}
